@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronfabian&label=Profile%20views&color=0e75b6&style=flat" alt="aaronfabian" /> </p>
 <!--
 **AaronFabian/AaronFabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronFabian&layout=compact)](https://github.com/AaronFabian)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AaronFabian)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronfabian&label=Profile%20views&color=0e75b6&style=flat" alt="aaronfabian" /> </p>
 
 <p align="left">
 </p>
