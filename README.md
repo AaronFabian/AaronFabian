@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronFabian&layout=compact)](https://github.com/AaronFabian)
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronFabian
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AaronFabian}
