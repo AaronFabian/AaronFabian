@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaron Fabian</h1>
 <h3 align="center">A passionate Web developer and Mobile Developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/q5MrabtsnjAAAAAC/%E0%B8%A3%E0%B8%B1%E0%B8%81.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://c.tenor.com/q5MrabtsnjAAAAAC/%E0%B8%A3%E0%B8%B1%E0%B8%81.gif">
 
 - 🌱 I’m currently learning **Lua love2d game engine**
 
