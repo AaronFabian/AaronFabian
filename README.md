@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Aaron Fabian</h1>
 <h3 align="center">A passionate Web developer and Mobile Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk3ZTlzNzRmcWdhOTdtN3N3Zmxmemk2MDg0ZGNkeTZ2N3FueDFwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qcnRWFWfZyXC/giphy.gif">
