@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Web developer and Mobile Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk3ZTlzNzRmcWdhOTdtN3N3Zmxmemk2MDg0ZGNkeTZ2N3FueDFwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qcnRWFWfZyXC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronfabian&label=Profile%20views&color=0e75b6&style=flat" alt="aaronfabian" /> </p>
-
 - 🌱 I’m currently learning **Lua love2d game engine**
 
 - 📫 How to reach me **aaronfabian78@gmail.com**
