@@ -18,8 +18,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aaronfabian&show_icons=true&locale=en&theme=tokyonight" alt="aaronfabian" /></p>
 
-<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronfabian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aaronfabian" /></p>
--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronfabian&theme=tokyonight" alt="aaronfabian" /></p>
