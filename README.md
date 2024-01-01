@@ -21,3 +21,26 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronfabian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aaronfabian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronfabian&theme=tokyonight" alt="aaronfabian" /></p>
+
+# Welcome!!
+
+
+2022年よりプログラミング学習開始
+
+## bio（自己紹介）
+2022年からプログラミング学習して学校の友達と大学の先生から基礎プログラミングを勉強してバックエンドエンジニアになりました。
+学ぶことの楽しさと人の幸福や人生感を日々探求・実践しており、公認心理師の勉強もしております。
+いつかの新しい教育のため、子どもの未来の幸福のため、自己研鑽に励みます。
+
+## can do（できること）
+HTML/CSS/Sass/Tailwind/JavaScript/React/TypeScript/PHP/Laravel/NodeJs/Express/Git/Kotlin/Dart/Flutter/MongoDB/SQL
+
+## interest（興味があるもの）
+lang:
+PHP/Python/JavaScript/React/TypeScript/GraphQL/C++/C#/Golang/Lua
+
+XaaS/FW/lib:
+Laravel/React/Express
+
+others:
+プログラミング/ウェッブ開発/ゲーム開発
