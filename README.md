@@ -206,6 +206,20 @@
         https://github.com/AaronFabian/the-wild-oasis
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+      </td>
+      <td>
+        Tower Defense
+      </td>
+      <td>
+        Easy to play tower defense type game
+      </td>
+      <td>
+        https://github.com/AaronFabian/tower-defense
+      </td>
+    </tr>
     </tbody>
 </table>
 
