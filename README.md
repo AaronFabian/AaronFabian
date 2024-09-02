@@ -150,21 +150,6 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-      </td>
-      <td>
-        orange juice
-      </td>
-      <td>
-        Simple anime streaming website. Focus on User Experience and Compability
-      </td>
-      <td>
-        https://github.com/AaronFabian/orange-juice
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
       </td>
@@ -176,6 +161,21 @@
       </td>
       <td>
         https://github.com/AaronFabian/motogp-streams/tree/main
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+      </td>
+      <td>
+        orange juice
+      </td>
+      <td>
+        Simple anime streaming website. Focus on User Experience and Compability
+      </td>
+      <td>
+        https://github.com/AaronFabian/orange-juice
       </td>
     </tr>
     <tr>
