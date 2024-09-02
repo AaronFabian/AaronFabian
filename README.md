@@ -128,6 +128,72 @@
   </tbody>
 </table>
 
+###
+<h3 align="left">Personal Project </h3>
+<table>
+  <thead>
+    <tr>
+      <th>
+        Stack
+      </th>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+      <th>
+        Repo/Link
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+      </td>
+      <td>
+        The Wild Oasis
+      </td>
+      <td>
+        Dashboard for create and booking cabin.
+      </td>
+      <td>
+        https://github.com/AaronFabian/the-wild-oasis
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+      </td>
+      <td>
+        orange juice
+      </td>
+      <td>
+        Simple anime streaming website. Focus on User Experience and Compability
+      </td>
+      <td>
+        https://github.com/AaronFabian/orange-juice
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+      </td>
+      <td>
+        apple juice
+      </td>
+      <td>
+        An simulation app that you can buy or sell crypto.
+      </td>
+      <td>
+        https://github.com/AaronFabian/apple-juice
+      </td>
+    </tr>
+    </tbody>
+</table>
+
 
 # Welcome!!
 
