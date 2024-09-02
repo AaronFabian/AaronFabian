@@ -87,6 +87,10 @@
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
           <img width="12" />
+          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="30" alt="jest logo"  />
+          <img width="12" />
+          <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="30" alt="puppeteer logo"  />
+          <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
           <img width="12" />
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="google cloud logo"  />
@@ -110,7 +114,15 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        OTHER
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
       </td>
     </tr>
   </tbody>
