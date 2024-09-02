@@ -160,7 +160,8 @@
         Get live updates about your favorite MotoGP races on Line Messenger. Sign up to receive alerts so you never miss a race. We'll send you quick reminders about all the racing action!
       </td>
       <td>
-        https://github.com/AaronFabian/motogp-streams/tree/main https://motogp-streams.xyz
+        https://github.com/AaronFabian/motogp-streams/tree/main 
+        https://motogp-streams.xyz
       </td>
     </tr>
     <tr>
@@ -175,7 +176,8 @@
         Simple anime streaming website. Focus on User Experience and Compability
       </td>
       <td>
-        https://github.com/AaronFabian/orange-juice https://imakeyouhappy.site
+        https://github.com/AaronFabian/orange-juice 
+        https://imakeyouhappy.site
       </td>
     </tr>
     <tr>
@@ -217,7 +219,8 @@
         Easy to play tower defense type game
       </td>
       <td>
-        https://github.com/AaronFabian/tower-defense https://tower-defense-aaronfabian.netlify.app/public/index.html
+        https://github.com/AaronFabian/tower-defense 
+        https://tower-defense-aaronfabian.netlify.app/public/index.html
       </td>
     </tr>
     </tbody>
