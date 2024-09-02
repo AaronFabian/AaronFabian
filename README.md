@@ -191,6 +191,21 @@
         https://github.com/AaronFabian/apple-juice
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+      </td>
+      <td>
+        MotoGP Streams
+      </td>
+      <td>
+        Get live updates about your favorite MotoGP races on Line Messenger. Sign up to receive alerts so you never miss a race. We'll send you quick reminders about all the racing action!
+      </td>
+      <td>
+        https://github.com/AaronFabian/motogp-streams/tree/main
+      </td>
+    </tr>
     </tbody>
 </table>
 
