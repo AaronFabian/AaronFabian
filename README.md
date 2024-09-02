@@ -150,20 +150,6 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-      </td>
-      <td>
-        The Wild Oasis
-      </td>
-      <td>
-        Dashboard for create and booking cabin.
-      </td>
-      <td>
-        https://github.com/AaronFabian/the-wild-oasis
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
       </td>
@@ -175,6 +161,21 @@
       </td>
       <td>
         https://github.com/AaronFabian/orange-juice
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+      </td>
+      <td>
+        MotoGP Streams
+      </td>
+      <td>
+        Get live updates about your favorite MotoGP races on Line Messenger. Sign up to receive alerts so you never miss a race. We'll send you quick reminders about all the racing action!
+      </td>
+      <td>
+        https://github.com/AaronFabian/motogp-streams/tree/main
       </td>
     </tr>
     <tr>
@@ -193,17 +194,16 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
       </td>
       <td>
-        MotoGP Streams
+        The Wild Oasis
       </td>
       <td>
-        Get live updates about your favorite MotoGP races on Line Messenger. Sign up to receive alerts so you never miss a race. We'll send you quick reminders about all the racing action!
+        Dashboard for create and booking cabin.
       </td>
       <td>
-        https://github.com/AaronFabian/motogp-streams/tree/main
+        https://github.com/AaronFabian/the-wild-oasis
       </td>
     </tr>
     </tbody>
