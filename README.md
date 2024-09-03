@@ -248,7 +248,7 @@ XaaS/FW/lib:
 Laravel/React/Express
 
 others:
-プログラミング/ウェッブ開発/ゲーム開発
+プログラミング/ウェブ開発/ゲーム開発
 
 <!-- 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aaronfabian&show_icons=true&locale=en&theme=tokyonight" alt="aaronfabian" /></p>
