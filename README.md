@@ -170,7 +170,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
       </td>
       <td>
-        orange juice
+        Orange Juice
       </td>
       <td>
         Simple anime streaming website. Focus on User Experience and Compability
@@ -185,7 +185,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
       </td>
       <td>
-        apple juice
+        Apple Juice
       </td>
       <td>
         An simulation app that you can buy or sell crypto.
