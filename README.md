@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaron Fabian</h1>
 <h3 align="center">A passionate Web Developer and Mobile Developer from Indonesia</h3>
-<img align="right" alt="coding" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25sdmkyZ3IxeDNtb2ltYXVpaDNldXZ0NzlpZnM0Y2dlNWZmamJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cErQiEscUGu1t3cXi/giphy.gif">
+<!-- <img align="right" alt="coding" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25sdmkyZ3IxeDNtb2ltYXVpaDNldXZ0NzlpZnM0Y2dlNWZmamJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cErQiEscUGu1t3cXi/giphy.gif"> -->
 <!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk3ZTlzNzRmcWdhOTdtN3N3Zmxmemk2MDg0ZGNkeTZ2N3FueDFwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qcnRWFWfZyXC/giphy.gif"> -->
 
 - 🌱 I’m currently learning **Machine learning and Game Development**
@@ -67,9 +67,9 @@
       </td>
       <td>
         <div align="left">  
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+          < src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+          < width="12" />
+          < src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
           <img width="12" />
