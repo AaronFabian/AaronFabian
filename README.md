@@ -123,6 +123,7 @@
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+        <img width="12" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
       </td>
     </tr>
