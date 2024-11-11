@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Machine learning and Game Development**
 
 - 📫 How to reach me **aaronfabian78@gmail.com**
+  
+- ⚡ **Technology Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
