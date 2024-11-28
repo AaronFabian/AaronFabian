@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aaronfabian78@gmail.com**
   
-- ⚡ **Technology Enthusiast**
+- ⚡ **Knowledge makes me happy, feel free to talk to me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
