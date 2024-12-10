@@ -94,9 +94,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
         <img width="12" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
         <img width="12" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/notion.svg" height="30" alt="figma logo"  />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
       </td>
     </tr>
   </tbody>
