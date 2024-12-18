@@ -56,8 +56,6 @@
           <img width="12" />
           <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="30" alt="jest logo"  />
           <img width="12" />
-          <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="30" alt="puppeteer logo"  />
-          <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
           <img width="12" />
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="google cloud logo"  />
