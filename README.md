@@ -56,6 +56,8 @@
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
           <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fiber/fiber-original.svg" height="30" alt="fiber logo"  />
+          <img width="12" />
           <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="30" alt="jest logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
