@@ -132,7 +132,10 @@
         Web API canvas game, classic turn base RPG game. Exploring the depth of the maze 
       </td>
       <td>
-        https://imakeyouhappy.site
+        prod: https://imakeyouhappy.site
+        BE: https://github.com/AaronFabian/maze-conquest
+        Sp: https://github.com/AaronFabian/maze-conquest-sp
+        FE: https://github.com/AaronFabian/maze-conquest-api
       </td>
     </tr>
     <tr>
@@ -164,7 +167,6 @@
       </td>
       <td>
         https://github.com/AaronFabian/orange-juice 
-        https://imakeyouhappy.site
       </td>
     </tr>
     <tr>
@@ -203,7 +205,7 @@
         Tower Defense
       </td>
       <td>
-        Easy to play tower defense type game
+        Tower defense type game
       </td>
       <td>
         https://github.com/AaronFabian/tower-defense 
