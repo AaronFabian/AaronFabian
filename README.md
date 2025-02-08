@@ -122,8 +122,8 @@
     <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
       </td>
       <td>
         Maze Conquest
@@ -133,9 +133,9 @@
       </td>
       <td>
         prod: https://imakeyouhappy.site <br>
-        BE: https://github.com/AaronFabian/maze-conquest <br>
-        Sp: https://github.com/AaronFabian/maze-conquest-sp <br>
         FE: https://github.com/AaronFabian/maze-conquest-api
+        Sp: https://github.com/AaronFabian/maze-conquest-sp <br>
+        BE: https://github.com/AaronFabian/maze-conquest <br>
       </td>
     </tr>
     <tr>
