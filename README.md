@@ -194,7 +194,7 @@
         Dashboard for create and booking cabin.
       </td>
       <td>
-        https://github.com/AaronFabian/the-wild-oasis
+        FE: https://github.com/AaronFabian/the-wild-oasis
       </td>
     </tr>
     <tr>
@@ -208,8 +208,8 @@
         Tower defense type game
       </td>
       <td>
-        https://github.com/AaronFabian/tower-defense 
-        https://tower-defense-aaronfabian.netlify.app/public/index.html
+        <p>Prod: https://tower-defense-aaronfabian.netlify.app/public/index.html</p>
+        FE: https://github.com/AaronFabian/tower-defense 
       </td>
     </tr>
     </tbody>
