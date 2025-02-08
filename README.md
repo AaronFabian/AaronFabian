@@ -132,10 +132,10 @@
         Web API canvas game, classic turn base RPG game. Exploring the depth of the maze 
       </td>
       <td>
-        prod: https://imakeyouhappy.site <br>
-        FE: https://github.com/AaronFabian/maze-conquest-api
+        Prod: https://imakeyouhappy.site <br>
+        FE: https://github.com/AaronFabian/maze-conquest-api <br>
         Sp: https://github.com/AaronFabian/maze-conquest-sp <br>
-        BE: https://github.com/AaronFabian/maze-conquest <br>
+        BE: https://github.com/AaronFabian/maze-conquest
       </td>
     </tr>
     <tr>
@@ -150,8 +150,8 @@
         Get live updates about your favorite MotoGP races using Line Messenger. Sign up to receive alerts so you never miss a race.
       </td>
       <td>
-        https://github.com/AaronFabian/motogp-streams/tree/main 
-        https://motogp-streams.xyz
+        FE: https://github.com/AaronFabian/motogp-streams/tree/main
+        Prod: https://motogp-streams.xyz ⛔
       </td>
     </tr>
     <tr>
@@ -166,7 +166,7 @@
         Simple anime streaming website. Focus on User Experience and Compability
       </td>
       <td>
-        https://github.com/AaronFabian/orange-juice 
+        FE & BE: https://github.com/AaronFabian/orange-juice 
       </td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@
         An simulation app that you can buy or sell crypto.
       </td>
       <td>
-        https://github.com/AaronFabian/apple-juice
+        Sp: https://github.com/AaronFabian/apple-juice
       </td>
     </tr>
     <tr>
