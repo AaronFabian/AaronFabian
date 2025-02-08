@@ -208,7 +208,7 @@
         Tower defense type game
       </td>
       <td>
-        <p>Prod: https://tower-defense-aaronfabian.netlify.app/public/index.html</p>
+        Prod: https://tower-defense-aaronfabian.netlify.app/public/index.html <br>
         FE: https://github.com/AaronFabian/tower-defense 
       </td>
     </tr>
