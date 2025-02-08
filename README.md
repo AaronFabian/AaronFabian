@@ -132,9 +132,9 @@
         Web API canvas game, classic turn base RPG game. Exploring the depth of the maze 
       </td>
       <td>
-        prod: https://imakeyouhappy.site
-        BE: https://github.com/AaronFabian/maze-conquest
-        Sp: https://github.com/AaronFabian/maze-conquest-sp
+        prod: https://imakeyouhappy.site <br>
+        BE: https://github.com/AaronFabian/maze-conquest <br>
+        Sp: https://github.com/AaronFabian/maze-conquest-sp <br>
         FE: https://github.com/AaronFabian/maze-conquest-api
       </td>
     </tr>
