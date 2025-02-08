@@ -150,8 +150,8 @@
         Get live updates about your favorite MotoGP races using Line Messenger. Sign up to receive alerts so you never miss a race.
       </td>
       <td>
-        FE: https://github.com/AaronFabian/motogp-streams/tree/main <br>
-        Prod: https://motogp-streams.xyz ⛔
+        Prod: https://motogp-streams.xyz ⛔ <br>
+        FE: https://github.com/AaronFabian/motogp-streams/tree/main 
       </td>
     </tr>
     <tr>
