@@ -121,6 +121,22 @@
   <tbody>
     <tr>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+      </td>
+      <td>
+        Maze Conquest
+      </td>
+      <td>
+        Web API canvas game, classic turn base RPG game. Exploring the depth of the maze 
+      </td>
+      <td>
+        https://imakeyouhappy.site
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
       </td>
