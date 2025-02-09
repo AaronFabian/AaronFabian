@@ -133,9 +133,9 @@
       </td>
       <td>
         Prod: https://imakeyouhappy.site <br>
-        FE: https://github.com/AaronFabian/maze-conquest-api <br>
+        FE: https://github.com/AaronFabian/maze-conquest <br>
         Sp: https://github.com/AaronFabian/maze-conquest-sp <br>
-        BE: https://github.com/AaronFabian/maze-conquest
+        BE: https://github.com/AaronFabian/maze-conquest-api
       </td>
     </tr>
     <tr>
