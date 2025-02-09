@@ -161,7 +161,7 @@
       </td>
       <td>
         Prod: https://motogp-streams.xyz ⛔ <br>
-        FE: https://github.com/AaronFabian/motogp-streams/tree/main 
+        FE & BE: https://github.com/AaronFabian/motogp-streams/tree/main 
       </td>
     </tr>
     <tr>
