@@ -101,6 +101,7 @@
 
 ###
 <h3 align="left">Personal Project </h3>
+<p>🌐:Frontend 📡:Backend 📱: Smartphone</p>
 <table>
   <thead>
     <tr>
@@ -139,9 +140,9 @@
       </td>
       <td>
         Prod: https://imakeyouhappy.site <br>
-        FE: https://github.com/AaronFabian/maze-conquest <br>
-        Sp: https://github.com/AaronFabian/maze-conquest-sp <br>
-        BE: https://github.com/AaronFabian/maze-conquest-api
+        🌐: https://github.com/AaronFabian/maze-conquest <br>
+        📱: https://github.com/AaronFabian/maze-conquest-sp <br>
+        📡: https://github.com/AaronFabian/maze-conquest-api
       </td>
     </tr>
     <tr>
@@ -161,7 +162,7 @@
       </td>
       <td>
         Prod: https://motogp-streams.xyz ⛔ <br>
-        FE & BE: https://github.com/AaronFabian/motogp-streams/tree/main 
+        🌐 & 📡: https://github.com/AaronFabian/motogp-streams/tree/main 
       </td>
     </tr>
     <tr>
@@ -180,7 +181,7 @@
         Simple anime streaming website. Focus on User Experience and Compability
       </td>
       <td>
-        FE & BE: https://github.com/AaronFabian/orange-juice 
+        🌐 & 📡: https://github.com/AaronFabian/orange-juice 
       </td>
     </tr>
     <tr>
@@ -196,7 +197,7 @@
         An simulation app that you can buy or sell crypto.
       </td>
       <td>
-        Sp: https://github.com/AaronFabian/apple-juice
+        📱: https://github.com/AaronFabian/apple-juice
       </td>
     </tr>
     <tr>
@@ -212,7 +213,7 @@
         Dashboard for create and booking cabin.
       </td>
       <td>
-        FE: https://github.com/AaronFabian/the-wild-oasis
+        🌐: https://github.com/AaronFabian/the-wild-oasis
       </td>
     </tr>
     <tr>
@@ -229,7 +230,7 @@
       </td>
       <td>
         Prod: https://tower-defense-aaronfabian.netlify.app/public/index.html <br>
-        FE: https://github.com/AaronFabian/tower-defense 
+        🌐: https://github.com/AaronFabian/tower-defense 
       </td>
     </tr>
     </tbody>
