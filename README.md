@@ -24,9 +24,7 @@
 | **DATABASE** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" width="30" alt="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="30" alt="Redis" /> |
 | **OTHER** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="30" alt="Linux" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="30" alt="Figma" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" height="30" width="30" alt="Notion" /> |
 
----
-
-###
+### 📁 Personal Project
 <h3 align="left">Personal Project </h3>
 <p>🌐:Frontend 📡:Backend 📱: Smartphone</p>
 <table>
