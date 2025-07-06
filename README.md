@@ -15,99 +15,16 @@
 </p>
 
 ###
-<h3 align="left">Stack </h3>
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th>
-        Platform
-      </th>
-      <th>
-        Stack/Tech
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        WEB
-      </td>
-      <td>
-        <div align="left">  
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-          <img width="12" />
-          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="30" alt="jest logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-          <img width="12" />
-          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="google cloud logo"  />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        MOBILE
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        GAME
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="c# logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        DATABASE
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        OTHER
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-        <img width="12" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-        <img width="12" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 🧰 Stack
+
+| Platform | Stack/Tech |
+|----------|------------|
+| **WEB** | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
+| **MOBILE** | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) ![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg) |
+| **GAME** | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg) |
+| **DATABASE** | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg) ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) |
+| **OTHER** | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) ![Notion](https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg) |
+
 
 ###
 <h3 align="left">Personal Project </h3>
