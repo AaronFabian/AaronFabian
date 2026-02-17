@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aaron Fabian</h1>
-<h3 align="center">A passionate Web Developer and Mobile Developer from Indonesia</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Passionate developer specializing in Web, Android, and Game Development, with strong interest in building scalable and interactive applications.</h3>
 <!-- <img align="right" alt="coding" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25sdmkyZ3IxeDNtb2ltYXVpaDNldXZ0NzlpZnM0Y2dlNWZmamJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cErQiEscUGu1t3cXi/giphy.gif"> -->
 <!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk3ZTlzNzRmcWdhOTdtN3N3Zmxmemk2MDg0ZGNkeTZ2N3FueDFwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qcnRWFWfZyXC/giphy.gif"> -->
 
