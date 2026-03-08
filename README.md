@@ -48,10 +48,37 @@
       <td>
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo"  />
         </p>
         <p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="30" alt="jetpack compose logo"  />
         </p>
+        <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+        </p>
+      </td>
+      <td>
+        Enterprise POS
+      </td>
+      <td>
+       Cloud base POS system
+      </td>
+      <td>
+        Prod: https://imakeyouhappy.site <br>
+        🌐: https://github.com/Enterprise-POS/cashier-web <br>
+        📱: https://github.com/Enterprise-POS/cashier-sp-android <br>
+        📡: https://github.com/Enterprise-POS/cashier-api
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+        </p>
+        <!-- <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+        </p> -->
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
         </p>
@@ -65,28 +92,8 @@
       <td>
         Prod: https://imakeyouhappy.site <br>
         🌐: https://github.com/AaronFabian/maze-conquest <br>
-        📱: https://github.com/AaronFabian/maze-conquest-sp <br>
+        <!-- 📱: https://github.com/AaronFabian/maze-conquest-sp <br> -->
         📡: https://github.com/AaronFabian/maze-conquest-api
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-        </p>
-        <p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-        </p>
-      </td>
-      <td>
-        MotoGP Streams
-      </td>
-      <td>
-        Get live updates about your favorite MotoGP races using Line Messenger. Sign up to receive alerts so you never miss a race.
-      </td>
-      <td>
-        Prod: https://motogp-streams.xyz ⛔ <br>
-        🌐 & 📡: https://github.com/AaronFabian/motogp-streams/tree/main 
       </td>
     </tr>
     <tr>
