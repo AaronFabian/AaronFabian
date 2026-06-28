@@ -62,7 +62,7 @@
         Enterprise POS
       </td>
       <td>
-       Cloud base POS system
+       Cloud-based POS system designed for multi-store retail businesses, featuring an admin dashboard, Android cashier application, role-based access control, sales analytics, reporting, and centralized store management.
       </td>
       <td>
         Prod: https://imakeyouhappy.site <br>
@@ -109,7 +109,7 @@
         Orange Juice
       </td>
       <td>
-        Simple anime streaming website. Focus on User Experience and Compability
+        Simple anime streaming website. Focus on User Experience and Compability.
       </td>
       <td>
         🌐 & 📡: https://github.com/AaronFabian/orange-juice 
@@ -157,7 +157,7 @@
         Tower Defense
       </td>
       <td>
-        Tower defense type game
+        Web-based tower defense type game.
       </td>
       <td>
         Prod: https://tower-defense-aaronfabian.netlify.app/public/index.html <br>
